@@ -1,4 +1,4 @@
-# Project Title
+# Coding-Challenges
 
 I'm reviewing some interview code exercises and documenting their solutions here.
 
