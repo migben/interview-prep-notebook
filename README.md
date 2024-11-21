@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://miro.medium.com/max/600/1*HPGzysLVdFgdfV356RpKRA.jpeg" alt="Whiteboard">
-  <p>I'm reviewing some technical interview questions and documenting the solutions here.</p>
+  <p>I'm reviewing technical interview questions and documenting the solutions here.</p>
 </div>
 
 ## <p align="center"> Getting Started 🌌 </p>
