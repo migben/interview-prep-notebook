@@ -1,4 +1,4 @@
-# <p align="center"> 💻 Tech Interview Preparation </p>
+# <p align="center"> 💻 Tech Interview Preparation  </p>
 
 <div align="center">
   <img src="https://miro.medium.com/max/600/1*HPGzysLVdFgdfV356RpKRA.jpeg" alt="Whiteboard">
@@ -19,6 +19,7 @@ Each problem will provide a link on top of the main javascript file, in case you
 * [bytebytego](https://bytebytego.com/) - Platform focused on everything needed to level up our system design skills to the next level **PAID**
 
 ### <p align="center">Data Structures & Algorithms | System Design | Coding Challenges 🐱‍💻</p>
+<hr>
 
 #### 🧩 Data Structures Covered
 - Arrays
@@ -53,7 +54,7 @@ Each problem will provide a link on top of the main javascript file, in case you
 - Optimization Techniques
 - Communication of Approach
 
-## Acknowledgments :v:
+## <p align="center"> Acknowledgments :v: </p>
 
 * My friends & family
 
