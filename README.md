@@ -15,7 +15,7 @@ Each problem will provide a link on top of the main javascript file, in case you
 * [Freeecodecamp](https://www.freecodecamp.org) - (Optional) Great Open Source learning platform with plenty of questions. **FREE**
 * [Udemy](https://www.udemy.com) - Plenty of interview coding courses in this site. **PAID**
 * [LeetcodePatterns](https://seanprashad.com/leetcode-patterns/) - coding problems grouped under their respective subtopic, in order to focus on repeatedly applying common patterns **FREE**
-* "System Design Interview – An Insider's Guide" - Alex Xu **FREE**
+* "System Design Interview – An Insider's Guide" - Alex Xu
 * [bytebytego](https://bytebytego.com/) - Platform focused on everything needed to level up our system design skills to the next level **PAID**
 
 ### <p align="center">Data Structures & Algorithms | System Design | Coding Challenges 🐱‍💻</p>
